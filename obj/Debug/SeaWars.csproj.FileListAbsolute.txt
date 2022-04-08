@@ -1,0 +1,11 @@
+C:\Users\argun\Desktop\SeaWar-csharp-master\bin\Debug\SeaWars.exe.config
+C:\Users\argun\Desktop\SeaWar-csharp-master\bin\Debug\SeaWars.exe
+C:\Users\argun\Desktop\SeaWar-csharp-master\bin\Debug\SeaWars.pdb
+C:\Users\argun\Desktop\SeaWar-csharp-master\obj\Debug\SeaWars.csproj.AssemblyReference.cache
+C:\Users\argun\Desktop\SeaWar-csharp-master\obj\Debug\SeaWars.csproj.SuggestedBindingRedirects.cache
+C:\Users\argun\Desktop\SeaWar-csharp-master\obj\Debug\SeaWars.Form1.resources
+C:\Users\argun\Desktop\SeaWar-csharp-master\obj\Debug\SeaWars.Properties.Resources.resources
+C:\Users\argun\Desktop\SeaWar-csharp-master\obj\Debug\SeaWars.csproj.GenerateResource.cache
+C:\Users\argun\Desktop\SeaWar-csharp-master\obj\Debug\SeaWars.csproj.CoreCompileInputs.cache
+C:\Users\argun\Desktop\SeaWar-csharp-master\obj\Debug\SeaWars.exe
+C:\Users\argun\Desktop\SeaWar-csharp-master\obj\Debug\SeaWars.pdb
